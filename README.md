@@ -33,5 +33,7 @@ https://www.switch-science.com/catalog/2511/
 * 足りないものない？
 
 
+# 参考
+https://fabcross.jp/category/make/sorepi/20180119_homeautomation.html
 
 
