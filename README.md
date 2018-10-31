@@ -33,4 +33,7 @@ https://www.switch-science.com/catalog/2511/
 # 参考
 https://fabcross.jp/category/make/sorepi/20180119_homeautomation.html
 
+http://iroha112233.hatenablog.com/entry/2016/03/24/231620
+
+
 
