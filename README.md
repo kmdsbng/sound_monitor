@@ -27,11 +27,8 @@ https://www.switch-science.com/catalog/2511/
 # 懸念点
 
 * どのラズパイ買えばいいの？
-* 電源って買わないといけない？
-* ケースとかいらない？
-* どこで買うのがいい？
-* 足りないものない？
-
+  * ラズパイ3B+
+* 安いディスプレイとUSBマイクで間に合うのでは
 
 # 参考
 https://fabcross.jp/category/make/sorepi/20180119_homeautomation.html
