@@ -3,7 +3,22 @@
 大きい音を見える化する装置をラズパイで作る
 
 
-# 買うもの
+# 買ったもの
+
+ラズパイ本体
+https://www.switch-science.com/catalog/3920/
+
+電源アダプター
+https://www.switch-science.com/catalog/3547/
+
+USBマイク
+https://www.amazon.co.jp/dp/B01KZPF1U8/
+
+ディスプレイ
+https://www.amazon.co.jp/dp/B077ZPZPRQ
+
+
+# 買う予定だったもの
 
 ラズパイ本体
 https://www.switch-science.com/catalog/list/467/
@@ -19,9 +34,6 @@ https://www.switch-science.com/catalog/816/
 
 LEDバー
 https://www.switch-science.com/catalog/2511/
-
-
-
 
 
 # 懸念点
